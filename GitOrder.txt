@@ -1,0 +1,14 @@
+$ git init：初始化本地仓库
+$ git status：查看状态
+$ git pull origin main --allow-unrelated-histories:拉取远程仓库数据
+$ git add . :添加所有文件到本地仓库
+$ git commit -m "第二次提交测试！" ：添加描述并提交数据到本地仓库
+$ git push origin main：推送数据到远程仓库
+$ ls -a  ：查看文件本地
+$ rm -rf .git ：删除本地仓库
+
+
+
+
+
+
